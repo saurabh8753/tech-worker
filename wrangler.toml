@@ -8,4 +8,4 @@ crons = ["0 */6 * * *"]   # every 6 hours
 [[d1_databases]]
 binding = "DB"
 database_name = "tech-videos-db"
-database_id = "YOUR_DB_ID"   # replace after `wrangler d1 create`
+database_id = "054d0823-2ca2-4996-8f5d-7d21a3c7e4a3"   # replace after `wrangler d1 create`
