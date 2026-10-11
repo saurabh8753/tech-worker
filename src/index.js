@@ -1,4 +1,4 @@
-const SITE_URL = "https://yourtechsite.pages.dev"; // change to your real domain
+const SITE_URL = "https://tech-videos.pages.dev"; // change to your real domain
 
 // ---------- Helpers ----------
 
